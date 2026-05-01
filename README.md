@@ -15,7 +15,7 @@ Data Analyst focused on experimentation, causal inference, and decision-driven a
 - **Causal Targeting Optimization** — reduced marketing cost by **~33.6%** with uplift-based targeting  
   https://github.com/yingruma1999-hub/causal-targeting-optimization
 
-## �� Skills
+## 🛠 Skills
 Python, SQL, scikit-learn, XGBoost  
 A/B testing, causal inference, uplift modeling, unit economics
 
